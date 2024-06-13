@@ -1,8 +1,7 @@
 # User Discussion Management
-User Discussion Management System
 #first you need to create an environment
-    python3 -m venv myenv
-    myenv\Scripts\activate 
+python3 -m venv myenv
+myenv\Scripts\activate 
 # install requirements.txt
     pip install -r requirements.txt
 
