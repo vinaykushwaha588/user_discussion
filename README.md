@@ -1,4 +1,4 @@
-# Django Project Name
+# User Discussion Management
 User Discussion Management System
 #first you need to create an environment
     python3 -m venv myenv
